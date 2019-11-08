@@ -1,6 +1,6 @@
 {
-  "name": "@emartech/typescript-example",
-  "description": "typescript-example-package",
+  "name": "@emartech/thisshouldntexist",
+  "description": "thisshouldntexist-package",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -43,11 +43,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emartech/typescript-example-package.git"
+    "url": "git+https://github.com/emartech/thisshouldntexist-package.git"
   },
-  "homepage": "https://github.com/emartech/typescript-example-package#readme",
+  "homepage": "https://github.com/emartech/thisshouldntexist-package#readme",
   "bugs": {
-    "url": "https://github.com/emartech/typescript-example-package/issues"
+    "url": "https://github.com/emartech/thisshouldntexist-package/issues"
   },
   "author": "Emarsys",
   "license": "MIT",
